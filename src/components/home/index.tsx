@@ -16,7 +16,7 @@ const Home = () => {
                 src="/static/waving.png"
               />
               <p>
-                Hi, I`&apos`m Pham Binh Minh. A passionate Front-end React Developer
+                Hi, I&apos;m Pham Binh Minh. A passionate Front-end React Developer
                 based in Hanoi, VietNam. 📍
               </p>
               <span>
