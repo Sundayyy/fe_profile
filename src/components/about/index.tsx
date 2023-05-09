@@ -32,7 +32,7 @@ const About = () => {
               based in Hanoi, VietNam 📍
             </h3>
             <p>
-              As a Junior Front-End Developer, I possess an impressive arsenal
+              As a Pre-Middle Front-End Developer, I possess an impressive arsenal
               of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I
               excel in designing and maintaining responsive websites that offer
               a smooth user experience. My expertise lies in crafting dynamic,
