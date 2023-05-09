@@ -70,6 +70,13 @@ const Home = () => {
                 <li>
                   <img src="/static/scss.svg" title="SCSS" alt="program_img" />
                 </li>
+                <li>
+                  <img
+                    src="/static/nodejs-com.svg"
+                    title="Nodejs"
+                    alt="program_img"
+                  />
+                </li>
               </ul>
             </div>
           </div>
